@@ -25,19 +25,6 @@
 ##
 
 <div align="center">
-    <h3>📄 About me 📄</h3>
-    <p>
-        <strong>☝️🤓 I'm a web developer and graduate in Internet Computing Technology from IFRN Campus Caicó.</strong> I'm fascinated about programming and have a solid foundation in PHP, CSS, HTML, JavaScript, Laravel, Bootstrap, Node.js, etc.
-    </p>
-  <div align="center" target="_blank">
-    <img width="15%" src="https://i.pinimg.com/originals/26/3e/3f/263e3f082246cb9cc522bedf09ccb80c.gif">
-</div>
-</div>
-
-##
-
-<div align="center">
-    <h3>📧 Contact me 📧</h3>
     <div style="display: flex;">
       <a href="mailto:pvitorss2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/pedrovitorsantos" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
