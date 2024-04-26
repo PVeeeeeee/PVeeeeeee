@@ -2,8 +2,8 @@
   <h2>Hi there! 👋🤓  <br>
     <strong>I'm Pedro Vitor, your friendly developer!</strong></h2>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pveeeeeee&layout=compact&langs_count=7&theme=github_dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pveeeeeee&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pveeeeeee&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api?username=pveeeeeee&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
     <img alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-    <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img alt="Replit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original.svg">
     <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
   </p>
