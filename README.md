@@ -2,8 +2,8 @@
   <h2>Hi there! 👋🤓  <br>
     <strong>I'm Pedro Vitor, your friendly developer!</strong></h2>
 
-  <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pveeeeeee&layout=compact&langs_count=7&theme=github_dark"/>
-  <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api?username=pveeeeeee&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pveeeeeee&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api?username=pveeeeeee&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
