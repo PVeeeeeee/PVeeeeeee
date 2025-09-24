@@ -1,11 +1,4 @@
 <div align="center">
-  <h2> 👋🤓  </h2>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pveeeeeee&layout=compact&langs_count=7&theme=github_dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pveeeeeee&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
   <p>
     <img alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
